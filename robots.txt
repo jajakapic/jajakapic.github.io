@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://jajakapic.github.io/sitemapx.xml
